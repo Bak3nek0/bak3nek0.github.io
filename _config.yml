@@ -103,8 +103,8 @@ analytics:
 author:
   name             : "Jose Bongiovani"
   avatar           : "/assets/images/jose.jpg"
-  bio              : "Cyber Security Trainee"
-  location         : "Rosario, Santa Fe - Argentina"
+  bio              : "Pentester"
+  location         : "Argentina"
   email            : 
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"

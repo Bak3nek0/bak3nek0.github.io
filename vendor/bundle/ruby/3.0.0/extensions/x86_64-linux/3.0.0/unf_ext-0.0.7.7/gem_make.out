@@ -1,0 +1,16 @@
+current directory: /home/ro0fc4t/GitHub/webServer/bak3nek0.github.io/vendor/bundle/ruby/3.0.0/gems/unf_ext-0.0.7.7/ext/unf_ext
+/usr/bin/ruby3.0 -I /usr/lib/ruby/vendor_ruby -r ./siteconf20221118-23339-h8c6ev.rb extconf.rb
+checking for -lstdc++... yes
+creating Makefile
+
+current directory: /home/ro0fc4t/GitHub/webServer/bak3nek0.github.io/vendor/bundle/ruby/3.0.0/gems/unf_ext-0.0.7.7/ext/unf_ext
+make DESTDIR\= clean
+
+current directory: /home/ro0fc4t/GitHub/webServer/bak3nek0.github.io/vendor/bundle/ruby/3.0.0/gems/unf_ext-0.0.7.7/ext/unf_ext
+make DESTDIR\=
+compiling unf.cc
+linking shared-object unf_ext.so
+
+current directory: /home/ro0fc4t/GitHub/webServer/bak3nek0.github.io/vendor/bundle/ruby/3.0.0/gems/unf_ext-0.0.7.7/ext/unf_ext
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 unf_ext.so ./.gem.20221118-23339-3o2ri2
